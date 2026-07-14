@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "atlasmonitor"
+version = "0.2.0b1"
+description = "Lightweight monitoring tool for Project Atlas"
+dependencies = [
+    "psutil"
+]
+
+[project.scripts]
+atlasmonitor = "atlasmonitor.main:main"

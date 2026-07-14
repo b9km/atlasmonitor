@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: atlasmonitor
+Version: 0.2.0b1
+Summary: Lightweight monitoring tool for Project Atlas
+Requires-Dist: psutil

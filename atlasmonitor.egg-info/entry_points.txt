@@ -1,0 +1,2 @@
+[console_scripts]
+atlasmonitor = atlasmonitor.main:main
