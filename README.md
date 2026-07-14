@@ -62,3 +62,9 @@ Current version:
 - CPU temperature
 - Multiple machine monitoring
 
+## License
+
+MIT License
+
+thank you for using atlasmonitor , new updates are underway inshallah!
+
